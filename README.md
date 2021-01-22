@@ -10,7 +10,7 @@ the algorithms available are:
 5. countingSort
 6. heapSort
 
-please run both .py files simultaniously through CMD
+please run both .py files simultaneously  through CMD
 first run plotWorld.py, then run sortingAlgorithms.py in another command line.
 
 test112.txt is the temporary dataset for the program.
