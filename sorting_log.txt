@@ -1,0 +1,412 @@
+2020-04-13 23:32:55,997 - DEBUG - start of program
+
+
+
+2020-04-13 23:32:55,997 - DEBUG - __name__ == __main__
+2020-04-13 23:32:55,997 - DEBUG - main()
+2020-04-13 23:32:55,997 - DEBUG - userRun()
+2020-04-13 23:32:59,523 - DEBUG - created random array:  [6, 4, 6, 7, 2, 10, 4, 2, 7, 10, 9, 0, 4, 9, 10, 10, 2, 2, 10, 6, 6, 10, 1, 0, 8, 10, 1, 3, 3, 5, 4, 2, 5, 9, 3, 0, 4, 9, 1, 5, 0, 7, 2, 2, 8, 8, 10, 1, 3, 10, 1, 5, 6, 9, 0, 2, 9, 0, 4, 9, 3, 7, 10, 7, 1, 4, 0, 7, 6, 0, 3, 4, 4, 4, 9, 0, 4, 5, 10, 2, 6, 6, 9, 1, 2, 9, 7, 6, 0, 7, 4, 1, 1, 2, 10, 3, 7, 4, 6, 8]
+2020-04-13 23:32:59,528 - DEBUG -          start write to file
+2020-04-13 23:32:59,528 - DEBUG -          wrote to file
+2020-04-13 23:32:59,528 - DEBUG - start quick sort
+2020-04-13 23:32:59,528 - DEBUG -          start read file
+2020-04-13 23:32:59,528 - DEBUG -          finish read file
+2020-04-13 23:32:59,528 - DEBUG -          start read file
+2020-04-13 23:32:59,528 - DEBUG -          finish read file
+2020-04-13 23:32:59,872 - DEBUG -          start write to file
+2020-04-13 23:32:59,877 - DEBUG -          wrote to file
+2020-04-13 23:33:00,156 - DEBUG -          start write to file
+2020-04-13 23:33:00,161 - DEBUG -          wrote to file
+2020-04-13 23:33:00,380 - DEBUG -          start write to file
+2020-04-13 23:33:00,380 - DEBUG -          wrote to file
+2020-04-13 23:33:00,568 - DEBUG -          start write to file
+2020-04-13 23:33:00,568 - DEBUG -          wrote to file
+2020-04-13 23:33:00,714 - DEBUG -          start write to file
+2020-04-13 23:33:00,714 - DEBUG -          wrote to file
+2020-04-13 23:33:00,822 - DEBUG -          start write to file
+2020-04-13 23:33:00,822 - DEBUG -          wrote to file
+2020-04-13 23:33:00,900 - DEBUG -          start write to file
+2020-04-13 23:33:00,905 - DEBUG -          wrote to file
+2020-04-13 23:33:00,978 - DEBUG -          start write to file
+2020-04-13 23:33:00,979 - DEBUG -          wrote to file
+2020-04-13 23:33:01,025 - DEBUG -          start write to file
+2020-04-13 23:33:01,026 - DEBUG -          wrote to file
+2020-04-13 23:33:01,073 - DEBUG -          start write to file
+2020-04-13 23:33:01,075 - DEBUG -          wrote to file
+2020-04-13 23:33:01,138 - DEBUG -          start write to file
+2020-04-13 23:33:01,140 - DEBUG -          wrote to file
+2020-04-13 23:33:01,175 - DEBUG -          start write to file
+2020-04-13 23:33:01,177 - DEBUG -          wrote to file
+2020-04-13 23:33:01,207 - DEBUG -          start write to file
+2020-04-13 23:33:01,208 - DEBUG -          wrote to file
+2020-04-13 23:33:01,233 - DEBUG -          start write to file
+2020-04-13 23:33:01,234 - DEBUG -          wrote to file
+2020-04-13 23:33:01,260 - DEBUG -          start write to file
+2020-04-13 23:33:01,261 - DEBUG -          wrote to file
+2020-04-13 23:33:01,277 - DEBUG -          start write to file
+2020-04-13 23:33:01,278 - DEBUG -          wrote to file
+2020-04-13 23:33:01,293 - DEBUG -          start write to file
+2020-04-13 23:33:01,293 - DEBUG -          wrote to file
+2020-04-13 23:33:01,343 - DEBUG -          start write to file
+2020-04-13 23:33:01,348 - DEBUG -          wrote to file
+2020-04-13 23:33:01,383 - DEBUG -          start write to file
+2020-04-13 23:33:01,383 - DEBUG -          wrote to file
+2020-04-13 23:33:01,415 - DEBUG -          start write to file
+2020-04-13 23:33:01,415 - DEBUG -          wrote to file
+2020-04-13 23:33:01,442 - DEBUG -          start write to file
+2020-04-13 23:33:01,447 - DEBUG -          wrote to file
+2020-04-13 23:33:01,466 - DEBUG -          start write to file
+2020-04-13 23:33:01,473 - DEBUG -          wrote to file
+2020-04-13 23:33:01,490 - DEBUG -          start write to file
+2020-04-13 23:33:01,490 - DEBUG -          wrote to file
+2020-04-13 23:33:01,503 - DEBUG -          start write to file
+2020-04-13 23:33:01,503 - DEBUG -          wrote to file
+2020-04-13 23:33:01,584 - DEBUG -          start write to file
+2020-04-13 23:33:01,584 - DEBUG -          wrote to file
+2020-04-13 23:33:01,627 - DEBUG -          start write to file
+2020-04-13 23:33:01,632 - DEBUG -          wrote to file
+2020-04-13 23:33:01,667 - DEBUG -          start write to file
+2020-04-13 23:33:01,672 - DEBUG -          wrote to file
+2020-04-13 23:33:01,712 - DEBUG -          start write to file
+2020-04-13 23:33:01,712 - DEBUG -          wrote to file
+2020-04-13 23:33:01,742 - DEBUG -          start write to file
+2020-04-13 23:33:01,742 - DEBUG -          wrote to file
+2020-04-13 23:33:01,772 - DEBUG -          start write to file
+2020-04-13 23:33:01,772 - DEBUG -          wrote to file
+2020-04-13 23:33:01,797 - DEBUG -          start write to file
+2020-04-13 23:33:01,802 - DEBUG -          wrote to file
+2020-04-13 23:33:01,817 - DEBUG -          start write to file
+2020-04-13 23:33:01,822 - DEBUG -          wrote to file
+2020-04-13 23:33:01,842 - DEBUG -          start write to file
+2020-04-13 23:33:01,847 - DEBUG -          wrote to file
+2020-04-13 23:33:01,857 - DEBUG -          start write to file
+2020-04-13 23:33:01,862 - DEBUG -          wrote to file
+2020-04-13 23:33:01,912 - DEBUG -          start write to file
+2020-04-13 23:33:01,912 - DEBUG -          wrote to file
+2020-04-13 23:33:01,944 - DEBUG -          start write to file
+2020-04-13 23:33:01,945 - DEBUG -          wrote to file
+2020-04-13 23:33:01,970 - DEBUG -          start write to file
+2020-04-13 23:33:01,971 - DEBUG -          wrote to file
+2020-04-13 23:33:01,994 - DEBUG -          start write to file
+2020-04-13 23:33:01,996 - DEBUG -          wrote to file
+2020-04-13 23:33:02,014 - DEBUG -          start write to file
+2020-04-13 23:33:02,015 - DEBUG -          wrote to file
+2020-04-13 23:33:02,036 - DEBUG -          start write to file
+2020-04-13 23:33:02,038 - DEBUG -          wrote to file
+2020-04-13 23:33:02,123 - DEBUG -          start write to file
+2020-04-13 23:33:02,126 - DEBUG -          wrote to file
+2020-04-13 23:33:02,179 - DEBUG -          start write to file
+2020-04-13 23:33:02,184 - DEBUG -          wrote to file
+2020-04-13 23:33:02,229 - DEBUG -          start write to file
+2020-04-13 23:33:02,234 - DEBUG -          wrote to file
+2020-04-13 23:33:02,274 - DEBUG -          start write to file
+2020-04-13 23:33:02,274 - DEBUG -          wrote to file
+2020-04-13 23:33:02,314 - DEBUG -          start write to file
+2020-04-13 23:33:02,314 - DEBUG -          wrote to file
+2020-04-13 23:33:02,353 - DEBUG -          start write to file
+2020-04-13 23:33:02,353 - DEBUG -          wrote to file
+2020-04-13 23:33:02,388 - DEBUG -          start write to file
+2020-04-13 23:33:02,388 - DEBUG -          wrote to file
+2020-04-13 23:33:02,418 - DEBUG -          start write to file
+2020-04-13 23:33:02,418 - DEBUG -          wrote to file
+2020-04-13 23:33:02,448 - DEBUG -          start write to file
+2020-04-13 23:33:02,448 - DEBUG -          wrote to file
+2020-04-13 23:33:02,468 - DEBUG -          start write to file
+2020-04-13 23:33:02,468 - DEBUG -          wrote to file
+2020-04-13 23:33:02,488 - DEBUG -          start write to file
+2020-04-13 23:33:02,488 - DEBUG -          wrote to file
+2020-04-13 23:33:02,498 - DEBUG -          start write to file
+2020-04-13 23:33:02,503 - DEBUG -          wrote to file
+2020-04-13 23:33:02,593 - DEBUG -          start write to file
+2020-04-13 23:33:02,593 - DEBUG -          wrote to file
+2020-04-13 23:33:02,618 - DEBUG -          start write to file
+2020-04-13 23:33:02,623 - DEBUG -          wrote to file
+2020-04-13 23:33:02,643 - DEBUG -          start write to file
+2020-04-13 23:33:02,648 - DEBUG -          wrote to file
+2020-04-13 23:33:02,663 - DEBUG -          start write to file
+2020-04-13 23:33:02,663 - DEBUG -          wrote to file
+2020-04-13 23:33:02,678 - DEBUG -          start write to file
+2020-04-13 23:33:02,683 - DEBUG -          wrote to file
+2020-04-13 23:33:02,728 - DEBUG -          start write to file
+2020-04-13 23:33:02,733 - DEBUG -          wrote to file
+2020-04-13 23:33:02,773 - DEBUG -          start write to file
+2020-04-13 23:33:02,773 - DEBUG -          wrote to file
+2020-04-13 23:33:02,813 - DEBUG -          start write to file
+2020-04-13 23:33:02,813 - DEBUG -          wrote to file
+2020-04-13 23:33:02,848 - DEBUG -          start write to file
+2020-04-13 23:33:02,853 - DEBUG -          wrote to file
+2020-04-13 23:33:02,878 - DEBUG -          start write to file
+2020-04-13 23:33:02,883 - DEBUG -          wrote to file
+2020-04-13 23:33:02,908 - DEBUG -          start write to file
+2020-04-13 23:33:02,908 - DEBUG -          wrote to file
+2020-04-13 23:33:02,932 - DEBUG -          start write to file
+2020-04-13 23:33:02,933 - DEBUG -          wrote to file
+2020-04-13 23:33:02,951 - DEBUG -          start write to file
+2020-04-13 23:33:02,953 - DEBUG -          wrote to file
+2020-04-13 23:33:02,966 - DEBUG -          start write to file
+2020-04-13 23:33:02,967 - DEBUG -          wrote to file
+2020-04-13 23:33:03,050 - DEBUG -          start write to file
+2020-04-13 23:33:03,052 - DEBUG -          wrote to file
+2020-04-13 23:33:03,103 - DEBUG -          start write to file
+2020-04-13 23:33:03,104 - DEBUG -          wrote to file
+2020-04-13 23:33:03,146 - DEBUG -          start write to file
+2020-04-13 23:33:03,148 - DEBUG -          wrote to file
+2020-04-13 23:33:03,183 - DEBUG -          start write to file
+2020-04-13 23:33:03,184 - DEBUG -          wrote to file
+2020-04-13 23:33:03,209 - DEBUG -          start write to file
+2020-04-13 23:33:03,214 - DEBUG -          wrote to file
+2020-04-13 23:33:03,241 - DEBUG -          start write to file
+2020-04-13 23:33:03,241 - DEBUG -          wrote to file
+2020-04-13 23:33:03,266 - DEBUG -          start write to file
+2020-04-13 23:33:03,266 - DEBUG -          wrote to file
+2020-04-13 23:33:03,281 - DEBUG -          start write to file
+2020-04-13 23:33:03,286 - DEBUG -          wrote to file
+2020-04-13 23:33:03,301 - DEBUG -          start write to file
+2020-04-13 23:33:03,301 - DEBUG -          wrote to file
+2020-04-13 23:33:03,335 - DEBUG -          start write to file
+2020-04-13 23:33:03,335 - DEBUG -          wrote to file
+2020-04-13 23:33:03,355 - DEBUG -          start write to file
+2020-04-13 23:33:03,355 - DEBUG -          wrote to file
+2020-04-13 23:33:03,370 - DEBUG -          start write to file
+2020-04-13 23:33:03,370 - DEBUG -          wrote to file
+2020-04-13 23:33:03,460 - DEBUG -          start write to file
+2020-04-13 23:33:03,460 - DEBUG -          wrote to file
+2020-04-13 23:33:03,506 - DEBUG -          start write to file
+2020-04-13 23:33:03,511 - DEBUG -          wrote to file
+2020-04-13 23:33:03,549 - DEBUG -          start write to file
+2020-04-13 23:33:03,554 - DEBUG -          wrote to file
+2020-04-13 23:33:03,596 - DEBUG -          start write to file
+2020-04-13 23:33:03,601 - DEBUG -          wrote to file
+2020-04-13 23:33:03,632 - DEBUG -          start write to file
+2020-04-13 23:33:03,632 - DEBUG -          wrote to file
+2020-04-13 23:33:03,669 - DEBUG -          start write to file
+2020-04-13 23:33:03,674 - DEBUG -          wrote to file
+2020-04-13 23:33:03,696 - DEBUG -          start write to file
+2020-04-13 23:33:03,696 - DEBUG -          wrote to file
+2020-04-13 23:33:03,719 - DEBUG -          start write to file
+2020-04-13 23:33:03,719 - DEBUG -          wrote to file
+2020-04-13 23:33:03,744 - DEBUG -          start write to file
+2020-04-13 23:33:03,744 - DEBUG -          wrote to file
+2020-04-13 23:33:03,759 - DEBUG -          start write to file
+2020-04-13 23:33:03,759 - DEBUG -          wrote to file
+2020-04-13 23:33:03,819 - DEBUG -          start write to file
+2020-04-13 23:33:03,819 - DEBUG -          wrote to file
+2020-04-13 23:33:03,869 - DEBUG -          start write to file
+2020-04-13 23:33:03,869 - DEBUG -          wrote to file
+2020-04-13 23:33:03,914 - DEBUG -          start write to file
+2020-04-13 23:33:03,919 - DEBUG -          wrote to file
+2020-04-13 23:33:03,970 - DEBUG -          start write to file
+2020-04-13 23:33:03,971 - DEBUG -          wrote to file
+2020-04-13 23:33:04,011 - DEBUG -          start write to file
+2020-04-13 23:33:04,012 - DEBUG -          wrote to file
+2020-04-13 23:33:04,062 - DEBUG -          start write to file
+2020-04-13 23:33:04,064 - DEBUG -          wrote to file
+2020-04-13 23:33:04,107 - DEBUG -          start write to file
+2020-04-13 23:33:04,108 - DEBUG -          wrote to file
+2020-04-13 23:33:04,139 - DEBUG -          start write to file
+2020-04-13 23:33:04,141 - DEBUG -          wrote to file
+2020-04-13 23:33:04,167 - DEBUG -          start write to file
+2020-04-13 23:33:04,169 - DEBUG -          wrote to file
+2020-04-13 23:33:04,192 - DEBUG -          start write to file
+2020-04-13 23:33:04,194 - DEBUG -          wrote to file
+2020-04-13 23:33:04,211 - DEBUG -          start write to file
+2020-04-13 23:33:04,212 - DEBUG -          wrote to file
+2020-04-13 23:33:04,226 - DEBUG -          start write to file
+2020-04-13 23:33:04,228 - DEBUG -          wrote to file
+2020-04-13 23:33:04,248 - DEBUG - finished quick sort
+2020-04-13 23:33:04,248 - DEBUG -          start read file
+2020-04-13 23:33:04,248 - DEBUG -          finish read file
+2020-04-13 23:33:04,248 - DEBUG -          start read file
+2020-04-13 23:33:04,248 - DEBUG -          finish read file
+2020-04-13 23:33:04,253 - DEBUG -          start read file
+2020-04-13 23:33:04,253 - DEBUG -          finish read file
+2020-04-13 23:33:04,253 - DEBUG - array = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 8, 8, 8, 8, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+
+
+2020-04-13 23:33:40,856 - DEBUG - start of program
+
+
+
+2020-04-13 23:33:40,856 - DEBUG - __name__ == __main__
+2020-04-13 23:33:40,856 - DEBUG - main()
+2020-04-13 23:33:40,856 - DEBUG - userRun()
+2020-04-13 23:33:43,582 - DEBUG - created random array:  [6, 5, 7, 2, 10, 9, 10, 7, 7, 8]
+2020-04-13 23:33:43,582 - DEBUG -          start write to file
+2020-04-13 23:33:43,585 - DEBUG -          wrote to file
+2020-04-13 23:33:43,585 - DEBUG - start quick sort
+2020-04-13 23:33:43,585 - DEBUG -          start read file
+2020-04-13 23:33:43,585 - DEBUG -          finish read file
+2020-04-13 23:33:43,585 - DEBUG -          start read file
+2020-04-13 23:33:43,585 - DEBUG -          finish read file
+2020-04-13 23:33:43,602 - DEBUG -          start write to file
+2020-04-13 23:33:43,607 - DEBUG -          wrote to file
+2020-04-13 23:33:43,633 - DEBUG -          start write to file
+2020-04-13 23:33:43,633 - DEBUG -          wrote to file
+2020-04-13 23:33:43,663 - DEBUG -          start write to file
+2020-04-13 23:33:43,663 - DEBUG -          wrote to file
+2020-04-13 23:33:43,682 - DEBUG -          start write to file
+2020-04-13 23:33:43,687 - DEBUG -          wrote to file
+2020-04-13 23:33:43,712 - DEBUG -          start write to file
+2020-04-13 23:33:43,712 - DEBUG -          wrote to file
+2020-04-13 23:33:43,727 - DEBUG -          start write to file
+2020-04-13 23:33:43,727 - DEBUG -          wrote to file
+2020-04-13 23:33:43,747 - DEBUG -          start write to file
+2020-04-13 23:33:43,747 - DEBUG -          wrote to file
+2020-04-13 23:33:43,772 - DEBUG -          start write to file
+2020-04-13 23:33:43,772 - DEBUG -          wrote to file
+2020-04-13 23:33:43,787 - DEBUG -          start write to file
+2020-04-13 23:33:43,787 - DEBUG -          wrote to file
+2020-04-13 23:33:43,807 - DEBUG -          start write to file
+2020-04-13 23:33:43,812 - DEBUG -          wrote to file
+2020-04-13 23:33:43,812 - DEBUG - finished quick sort
+2020-04-13 23:33:43,812 - DEBUG -          start read file
+2020-04-13 23:33:43,817 - DEBUG -          finish read file
+2020-04-13 23:33:43,822 - DEBUG -          start read file
+2020-04-13 23:33:43,822 - DEBUG -          finish read file
+2020-04-13 23:33:43,822 - DEBUG -          start read file
+2020-04-13 23:33:43,827 - DEBUG -          finish read file
+2020-04-13 23:33:43,827 - DEBUG - array = [2, 5, 6, 7, 7, 7, 8, 9, 10, 10]
+
+
+2020-04-13 23:33:53,335 - DEBUG - start of program
+
+
+
+2020-04-13 23:33:53,335 - DEBUG - __name__ == __main__
+2020-04-13 23:33:53,335 - DEBUG - main()
+2020-04-13 23:33:53,335 - DEBUG - userRun()
+2020-04-13 23:33:56,751 - DEBUG - created random array:  [3, 2, 2, 4, 7, 9, 2, 7, 1, 9]
+2020-04-13 23:33:56,751 - DEBUG -          start write to file
+2020-04-13 23:33:56,756 - DEBUG -          wrote to file
+2020-04-13 23:33:56,756 - DEBUG - start quick sort
+2020-04-13 23:33:56,756 - DEBUG -          start read file
+2020-04-13 23:33:56,756 - DEBUG -          finish read file
+2020-04-13 23:33:56,756 - DEBUG -          start read file
+2020-04-13 23:33:56,756 - DEBUG -          finish read file
+2020-04-13 23:33:56,776 - DEBUG -          start write to file
+2020-04-13 23:33:56,781 - DEBUG -          wrote to file
+2020-04-13 23:33:56,811 - DEBUG -          start write to file
+2020-04-13 23:33:56,811 - DEBUG -          wrote to file
+2020-04-13 23:33:56,836 - DEBUG -          start write to file
+2020-04-13 23:33:56,841 - DEBUG -          wrote to file
+2020-04-13 23:33:56,857 - DEBUG -          start write to file
+2020-04-13 23:33:56,858 - DEBUG -          wrote to file
+2020-04-13 23:33:56,874 - DEBUG -          start write to file
+2020-04-13 23:33:56,874 - DEBUG -          wrote to file
+2020-04-13 23:33:56,889 - DEBUG -          start write to file
+2020-04-13 23:33:56,889 - DEBUG -          wrote to file
+2020-04-13 23:33:56,920 - DEBUG -          start write to file
+2020-04-13 23:33:56,921 - DEBUG -          wrote to file
+2020-04-13 23:33:56,935 - DEBUG -          start write to file
+2020-04-13 23:33:56,937 - DEBUG -          wrote to file
+2020-04-13 23:33:56,952 - DEBUG -          start write to file
+2020-04-13 23:33:56,954 - DEBUG -          wrote to file
+2020-04-13 23:33:56,977 - DEBUG -          start write to file
+2020-04-13 23:33:56,979 - DEBUG -          wrote to file
+2020-04-13 23:33:56,988 - DEBUG - finished quick sort
+2020-04-13 23:33:56,988 - DEBUG -          start read file
+2020-04-13 23:33:56,989 - DEBUG -          finish read file
+2020-04-13 23:33:56,992 - DEBUG -          start read file
+2020-04-13 23:33:56,993 - DEBUG -          finish read file
+2020-04-13 23:33:56,997 - DEBUG -          start read file
+2020-04-13 23:33:56,998 - DEBUG -          finish read file
+2020-04-13 23:33:56,998 - DEBUG - array = [1, 2, 2, 2, 3, 4, 7, 7, 9, 9]
+
+
+2020-04-13 23:34:06,636 - DEBUG - start of program
+
+
+
+2020-04-13 23:34:06,636 - DEBUG - __name__ == __main__
+2020-04-13 23:34:06,636 - DEBUG - main()
+2020-04-13 23:34:06,636 - DEBUG - userRun()
+2020-04-13 23:34:10,759 - DEBUG - created random array:  [0, 2, 0, 6, 9, 5, 7, 2, 10, 4]
+2020-04-13 23:34:10,759 - DEBUG -          start write to file
+2020-04-13 23:34:10,761 - DEBUG -          wrote to file
+2020-04-13 23:34:10,761 - DEBUG - start quick sort
+2020-04-13 23:34:10,761 - DEBUG -          start read file
+2020-04-13 23:34:10,761 - DEBUG -          finish read file
+2020-04-13 23:34:10,761 - DEBUG -          start read file
+2020-04-13 23:34:10,761 - DEBUG -          finish read file
+2020-04-13 23:34:10,781 - DEBUG -          start write to file
+2020-04-13 23:34:10,783 - DEBUG -          wrote to file
+2020-04-13 23:34:10,803 - DEBUG -          start write to file
+2020-04-13 23:34:10,803 - DEBUG -          wrote to file
+2020-04-13 23:34:10,824 - DEBUG -          start write to file
+2020-04-13 23:34:10,829 - DEBUG -          wrote to file
+2020-04-13 23:34:10,844 - DEBUG -          start write to file
+2020-04-13 23:34:10,844 - DEBUG -          wrote to file
+2020-04-13 23:34:10,861 - DEBUG -          start write to file
+2020-04-13 23:34:10,861 - DEBUG -          wrote to file
+2020-04-13 23:34:10,886 - DEBUG -          start write to file
+2020-04-13 23:34:10,891 - DEBUG -          wrote to file
+2020-04-13 23:34:10,902 - DEBUG -          start write to file
+2020-04-13 23:34:10,907 - DEBUG -          wrote to file
+2020-04-13 23:34:10,925 - DEBUG -          start write to file
+2020-04-13 23:34:10,927 - DEBUG -          wrote to file
+2020-04-13 23:34:10,949 - DEBUG -          start write to file
+2020-04-13 23:34:10,950 - DEBUG -          wrote to file
+2020-04-13 23:34:10,970 - DEBUG -          start write to file
+2020-04-13 23:34:10,971 - DEBUG -          wrote to file
+2020-04-13 23:34:10,978 - DEBUG - finished quick sort
+2020-04-13 23:34:10,978 - DEBUG -          start read file
+2020-04-13 23:34:10,979 - DEBUG -          finish read file
+2020-04-13 23:34:10,982 - DEBUG -          start read file
+2020-04-13 23:34:10,983 - DEBUG -          finish read file
+2020-04-13 23:34:10,988 - DEBUG -          start read file
+2020-04-13 23:34:10,988 - DEBUG -          finish read file
+2020-04-13 23:34:10,989 - DEBUG - array = [0, 0, 2, 2, 4, 5, 6, 7, 9, 10]
+
+
+2020-04-13 23:34:31,496 - DEBUG - start of program
+
+
+
+2020-04-13 23:34:31,496 - DEBUG - __name__ == __main__
+2020-04-13 23:34:31,496 - DEBUG - main()
+2020-04-13 23:34:31,496 - DEBUG - userRun()
+2020-04-13 23:34:33,799 - DEBUG - created random array:  [10, 9, 3, 3, 1, 6, 1, 5, 2, 4]
+2020-04-13 23:34:33,799 - DEBUG -          start write to file
+2020-04-13 23:34:33,800 - DEBUG -          wrote to file
+2020-04-13 23:34:33,800 - DEBUG - start quick sort
+2020-04-13 23:34:33,801 - DEBUG -          start read file
+2020-04-13 23:34:33,801 - DEBUG -          finish read file
+2020-04-13 23:34:33,801 - DEBUG -          start read file
+2020-04-13 23:34:33,801 - DEBUG -          finish read file
+2020-04-13 23:34:33,826 - DEBUG -          start write to file
+2020-04-13 23:34:33,826 - DEBUG -          wrote to file
+2020-04-13 23:34:33,851 - DEBUG -          start write to file
+2020-04-13 23:34:33,851 - DEBUG -          wrote to file
+2020-04-13 23:34:33,865 - DEBUG -          start write to file
+2020-04-13 23:34:33,865 - DEBUG -          wrote to file
+2020-04-13 23:34:33,880 - DEBUG -          start write to file
+2020-04-13 23:34:33,880 - DEBUG -          wrote to file
+2020-04-13 23:34:33,896 - DEBUG -          start write to file
+2020-04-13 23:34:33,896 - DEBUG -          wrote to file
+2020-04-13 23:34:33,906 - DEBUG -          start write to file
+2020-04-13 23:34:33,906 - DEBUG -          wrote to file
+2020-04-13 23:34:33,937 - DEBUG -          start write to file
+2020-04-13 23:34:33,938 - DEBUG -          wrote to file
+2020-04-13 23:34:33,956 - DEBUG -          start write to file
+2020-04-13 23:34:33,957 - DEBUG -          wrote to file
+2020-04-13 23:34:33,978 - DEBUG -          start write to file
+2020-04-13 23:34:33,979 - DEBUG -          wrote to file
+2020-04-13 23:34:33,993 - DEBUG -          start write to file
+2020-04-13 23:34:33,994 - DEBUG -          wrote to file
+2020-04-13 23:34:34,002 - DEBUG - finished quick sort
+2020-04-13 23:34:34,003 - DEBUG -          start read file
+2020-04-13 23:34:34,003 - DEBUG -          finish read file
+2020-04-13 23:34:34,010 - DEBUG -          start read file
+2020-04-13 23:34:34,011 - DEBUG -          finish read file
+2020-04-13 23:34:34,013 - DEBUG -          start read file
+2020-04-13 23:34:34,013 - DEBUG -          finish read file
+2020-04-13 23:34:34,014 - DEBUG - array = [1, 1, 2, 3, 3, 4, 5, 6, 9, 10]
+
+
+2020-04-13 23:35:40,382 - DEBUG - start of program
+
+
+
+2020-04-13 23:35:40,382 - DEBUG - __name__ == __main__
+2020-04-13 23:35:40,382 - DEBUG - main()
+2020-04-13 23:35:40,382 - DEBUG - userRun()
