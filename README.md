@@ -1,4 +1,4 @@
-SortingAlgorithms
+**SortingAlgorithms**
 
 the program offers the user to randomise a dataset with a size and max value to his/hers choice, then to choose an algorithm to sort it by.
 
